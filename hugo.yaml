@@ -2,7 +2,7 @@ baseURL: https://os.zyroz.dev
 languageCode: en-us
 defaultContentLanguage: en
 title: zOs
-theme: cupper-hugo-theme
+# theme: cupper-hugo-theme
 # googleAnalytics: UA-123456789-1
 disqusShortname: yourdiscussshortname
 enableGitInfo: true
